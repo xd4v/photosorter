@@ -1,0 +1,5 @@
+.venv
+
+history.json
+files/*
+!files/input/README.md
